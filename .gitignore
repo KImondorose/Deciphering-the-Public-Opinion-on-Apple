@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+*.pytest_cache
+.gitattributes
+!*.zip
+data/judge-1377884607_tweet_product_company.csv
