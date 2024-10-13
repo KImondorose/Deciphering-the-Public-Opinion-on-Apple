@@ -1,8 +1,8 @@
-* [Slideshow Presentation](https://github.com/MMJGGR/Phase_2_project/blob/main/phase2-presentation.pdf)
-* [Jupyter Notebook with Cleaning & Questions](https://github.com/KImondorose/phase_4_project/blob/main/main_notebook.ipynb)
-* [Notebook PDF](https://github.com/MMJGGR/Phase_2_project/blob/main/index.pdf)
-* [Data Sources](https://github.com/MMJGGR/Phase_2_project/tree/main/Data)
-* [Individual Group Member Contributions](https://github.com/MMJGGR/Phase_2_project/tree/main/work_in_progress)
+* [Slideshow Presentation](https://github.com/KImondorose/Deciphering-the-Public-Opinion-on-Apple/blob/main/Deciphering%20the%20Public%20Opinion%20on%20Apple%20Presentation.pdf)
+* [Jupyter Notebook with Cleaning & Questions](https://github.com/KImondorose/Deciphering-the-Public-Opinion-on-Apple/blob/main/main_notebook.ipynb)
+* [Notebook PDF](https://github.com/KImondorose/Deciphering-the-Public-Opinion-on-Apple/blob/main/Main%20Notebook.pdf)
+* [Data Sources](https://github.com/KImondorose/Deciphering-the-Public-Opinion-on-Apple/tree/main/data)
+* [Individual Group Member Contributions](https://github.com/KImondorose/Deciphering-the-Public-Opinion-on-Apple/tree/main/work_in_progress)
 
 # Deciphering the Public Opinion on Apple
 ## Conducting a Twitter Sentiment Analysis for the SXSW Conference
