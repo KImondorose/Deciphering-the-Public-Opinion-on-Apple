@@ -26,10 +26,10 @@ The dataset for this analysis was sourced from data.world, provided by CrowdFlow
 - Cleaned the `Emotion` column by mapping values like 'Positive emotion' to 'Positive,' and similarly for other values.
 
 ## Exploratory Data Analysis (EDA)
-![Distribution of Customer Sentiments](data/Images/Distribution%20of%20Customer%20Sentiments.png)
+![Distribution of Customer Sentiments](data/Images/Distribution%20of%20Customer%20Sentiments.png)   
 It is evident that there is a class imbalance in the dataset. Neutral sentiment dominates, followed by positive, and then negative sentiment, which is significantly underrepresented.
 
-![Diverging Sentiment Distribution by Brand](data/Images/Diverging%20Sentiment%20Distribution%20by%20Brand.png)
+![Diverging Sentiment Distribution by Brand](data/Images/Diverging%20Sentiment%20Distribution%20by%20Brand.png)   
 Mentions of Apple products in the tweets show more extreme opinions, with both stronger positive and negative feelings compared to Google. In contrast, tweets about Google tend to have a more balanced and neutral tone. This suggests that Apple’s products may provoke stronger emotional responses, whether positive or negative, from users.
 
 - We analyzed the most frequent words in positive and negative tweets, removing stop words and irrelevant tokens.
