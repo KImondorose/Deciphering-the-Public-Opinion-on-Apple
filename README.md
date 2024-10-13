@@ -46,6 +46,7 @@ Mentions of Apple products in the tweets show more extreme opinions, with both s
 
 ### Model Tuning
 - We fine-tuned several models (Logistic Regression, Naive Bayes, Decision Tree, etc.) using grid search. The best-performing model was a Gradient Boosting model with a test accuracy of 61%.
+  ![Difference Between Train and Test Accuracies for All Models](data/Images/Accuracy%20Differences.png)
 
 ## Results and Recommendation
 - Both Apple and Google received more positive than negative tweets during the SXSW conference (Apple: 81.1% positive, Google: 82% positive).
