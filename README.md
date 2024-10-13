@@ -29,6 +29,7 @@ The dataset for this analysis was sourced from data.world, provided by CrowdFlow
 ![Distribution of Customer Sentiments](data/Images/Distribution%20of%20Customer%20Sentiments.png)
 - We analyzed the most frequent words in positive and negative tweets, removing stop words and irrelevant tokens.
 - Word clouds were generated for visualizing common terms in positive and negative sentiments.
+![Word Cloud with Product Information](data/Images/Wordcloud%20with%20product%20information.png)
 
 ## Modeling
 
