@@ -26,7 +26,7 @@ The dataset for this analysis was sourced from data.world, provided by CrowdFlow
 - Cleaned the `Emotion` column by mapping values like 'Positive emotion' to 'Positive,' and similarly for other values.
 
 ## Exploratory Data Analysis (EDA)
-![Distribution of Customer Sentiments](data/Images/Distribution of Customer Sentiments.png)
+[Distribution of Customer Sentiments](data/Images/Distribution%20of%20Customer%20Sentiments.png)
 - We analyzed the most frequent words in positive and negative tweets, removing stop words and irrelevant tokens.
 - Word clouds were generated for visualizing common terms in positive and negative sentiments.
 
