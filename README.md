@@ -1,3 +1,9 @@
+* [Slideshow Presentation](https://github.com/MMJGGR/Phase_2_project/blob/main/phase2-presentation.pdf)
+* [Jupyter Notebook with Cleaning & Questions](https://github.com/MMJGGR/Phase_2_project/blob/main/index.ipynb)
+* [Notebook PDF](https://github.com/MMJGGR/Phase_2_project/blob/main/index.pdf)
+* [Data Sources](https://github.com/MMJGGR/Phase_2_project/tree/main/Data)
+* [Individual Group Member Contributions](https://github.com/MMJGGR/Phase_2_project/tree/main/work_in_progress)
+
 # Deciphering the Public Opinion on Apple
 ## Conducting a Twitter Sentiment Analysis for the SXSW Conference
 
