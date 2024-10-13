@@ -46,6 +46,7 @@ Mentions of Apple products in the tweets show more extreme opinions, with both s
 
 ### Model Tuning
 - We fine-tuned several models (Logistic Regression, Naive Bayes, Decision Tree, etc.) using grid search. The best-performing model was a Gradient Boosting model with a test accuracy of 61%.
+  ![Model Performance](data/Images/Model%20Performance.png)
   ![Difference Between Train and Test Accuracies for All Models](data/Images/Accuracy%20Differences.png)
 
 ## Results and Recommendation
